@@ -1,0 +1,9 @@
+/* Used for example in E-Books published by "Knaur eBook" */
+
+div.einschub p.firstincontainer {
+    text-align: center !important;
+}
+
+div.einschub1 p.firstincontainer {
+    text-align: center !important;
+}

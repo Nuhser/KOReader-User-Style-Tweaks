@@ -1,0 +1,9 @@
+/* Used for example in E-Books published by "Knaur eBook" */
+
+p.untertitel {
+    text-align: center !important;
+}
+
+div.zwischentitel span {
+    text-align: center !important;
+}
