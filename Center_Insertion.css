@@ -1,4 +1,5 @@
-/* Used for citations before and centered text blocks inside chapters in E-Books published by "Knaur eBook". */
+/* Used for citations before and centered text blocks inside chapters in E-Books published by "Knaur eBook".
+Used for centering those blocks again if the got left-aligned due to the style tweak "Justify most text". */
 
 div.einschub p.firstincontainer {
     text-align: center !important;
