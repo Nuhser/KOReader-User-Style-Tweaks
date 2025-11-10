@@ -1,4 +1,4 @@
-/* Used for example in E-Books published by "Knaur eBook" */
+/* Used for citations before and centered text blocks inside chapters in E-Books published by "Knaur eBook". */
 
 div.einschub p.firstincontainer {
     text-align: center !important;
