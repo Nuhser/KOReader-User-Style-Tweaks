@@ -1,0 +1,17 @@
+/* Used for centering images in the middle of the page. Used for "Kein Thriller" books by Sebastian Fitzek. */
+
+figure.bild {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+img.abbildung {
+    display: block;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
