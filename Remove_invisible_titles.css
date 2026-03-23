@@ -1,0 +1,7 @@
+/*Used to make invisible title don't use up space (e.g. in "Die Känguru-Rebellion").
+  In somme books the chapter titles are displayed as images underneath the real title.
+  In that case the real title is made invisble but it may still take up space on the page. */
+
+h1.bdo-toctitle1 {
+    display: none !important;
+}
